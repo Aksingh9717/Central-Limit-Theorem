@@ -22,7 +22,7 @@ Central Limit Theorem (CLT) to estimate the mean fare using sampling distributio
 3. Drew 100 random samples of size 50
 4. Calculated sampling means
 5. Visualized sampling distribution
-6. Estimated mean and confidence interval using standard error
+6. Estimated mean 
 
 ## Key Results
 - Original Fare Distribution: Right-skewed
