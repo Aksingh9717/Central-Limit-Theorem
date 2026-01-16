@@ -8,7 +8,7 @@ Central Limit Theorem (CLT) to estimate the mean fare using sampling distributio
 ## Objective
 - Analyze the distribution of fare values
 - Apply Central Limit Theorem using random sampling
-- Estimate the population mean and confidence interval
+- Estimate the population mean
 - Demonstrate how sampling means approach normality
 
 ## Dataset
